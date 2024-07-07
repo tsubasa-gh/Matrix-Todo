@@ -1,0 +1,32 @@
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+/Users/satotsubasa/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-dm5rhv sitelibdir\=./.gem.20240704-29062-dm5rhv clean
+cd libyaml && /Applications/Xcode.app/Contents/Developer/usr/bin/make clean
+/bin/sh: line 0: cd: libyaml: No such file or directory
+make: [clean-so] Error 1 (ignored)
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-dm5rhv sitelibdir\=./.gem.20240704-29062-dm5rhv
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.1', '-lyaml'
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-dm5rhv sitelibdir\=./.gem.20240704-29062-dm5rhv install
+/usr/bin/install -c -m 0755 psych.bundle ./.gem.20240704-29062-dm5rhv
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-dm5rhv sitelibdir\=./.gem.20240704-29062-dm5rhv clean
+cd libyaml && /Applications/Xcode.app/Contents/Developer/usr/bin/make clean
+/bin/sh: line 0: cd: libyaml: No such file or directory
+make: [clean-so] Error 1 (ignored)

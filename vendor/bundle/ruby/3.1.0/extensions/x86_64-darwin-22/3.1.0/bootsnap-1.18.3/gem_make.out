@@ -1,0 +1,24 @@
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+/Users/satotsubasa/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-6yr9n6 sitelibdir\=./.gem.20240704-29062-6yr9n6 clean
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-6yr9n6 sitelibdir\=./.gem.20240704-29062-6yr9n6
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-6yr9n6 sitelibdir\=./.gem.20240704-29062-6yr9n6 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240704-29062-6yr9n6/bootsnap
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-6yr9n6 sitelibdir\=./.gem.20240704-29062-6yr9n6 clean

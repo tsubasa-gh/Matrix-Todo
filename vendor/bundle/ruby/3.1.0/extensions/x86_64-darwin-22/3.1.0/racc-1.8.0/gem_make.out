@@ -1,0 +1,20 @@
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/satotsubasa/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-bbcty4 sitelibdir\=./.gem.20240704-29062-bbcty4 clean
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-bbcty4 sitelibdir\=./.gem.20240704-29062-bbcty4
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-bbcty4 sitelibdir\=./.gem.20240704-29062-bbcty4 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240704-29062-bbcty4/racc
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-bbcty4 sitelibdir\=./.gem.20240704-29062-bbcty4 clean

@@ -1,0 +1,20 @@
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+/Users/satotsubasa/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-k0vr5r sitelibdir\=./.gem.20240704-29062-k0vr5r clean
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-k0vr5r sitelibdir\=./.gem.20240704-29062-k0vr5r
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-k0vr5r sitelibdir\=./.gem.20240704-29062-k0vr5r install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240704-29062-k0vr5r
+
+current directory: /Users/satotsubasa/matrix-todo/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240704-29062-k0vr5r sitelibdir\=./.gem.20240704-29062-k0vr5r clean
