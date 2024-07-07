@@ -77,9 +77,9 @@
 # 使用技術
 |||
 | --- | --- |
-| フロントエンド | TypeScript, Next.js, MUI |
-| バックエンド | Ruby, Ruby on Rails |
-| データベース | PostgreSQL |
+| フロントエンド | TypeScript 5.4,  Next.js 14.2, MUI |
+| バックエンド | Ruby 3.1,  Ruby on Rails 7.1 |
+| データベース | PostgreSQL 16.0 |
 | インフラ | Vercel, Render |
 | デザイン | Canva |
 | その他 | Git, GitHub |
